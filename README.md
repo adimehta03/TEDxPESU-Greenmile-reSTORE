@@ -1,4 +1,4 @@
-# reSTORE-NASA-SPACE-APPS-CHALLENGE
+# reSTORE
 
 ## WHY?
 By the year 2050, nearly 80% of the earth's population will reside in urban centres. Applying the most conservative estimates to current demographics trends, the human population will increase by about 3 billion people during the interim. An estimated 109 hectares of new land will be needed to grow enough food to feed them.  (SOURCE: NASA)
